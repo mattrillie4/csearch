@@ -4,7 +4,7 @@ Very basic C program, that reads through a .txt file, and returns any lines with
 
 ## Usage
 
-Usage: csearch <term> <file>
+Usage: csearch '<term>' '<file>'
 
 file in the form of .txt
 term is the desired term to search for in the file
